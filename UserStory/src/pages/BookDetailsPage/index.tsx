@@ -6,7 +6,7 @@ const BookDetailsPage = () => {
   return (
     <div>
       <Header />
-      <BookDetail />
+      <BookDetail /> 
       <Footer />
     </div>
   );
